@@ -7,7 +7,7 @@ Dev/testing channel for [awg-manager](https://github.com/hoaxisr/awg-manager) IP
 Replace the stable feed URL with this one in your opkg configuration:
 
 ```
-src/gz awg-manager-dev https://raw.githubusercontent.com/hoaxisr/awg-manager-dev/main/{arch}-kn
+src/gz awg-manager-dev https://hoaxisr.github.io/awg-manager-dev/{arch}-kn
 ```
 
 Where `{arch}` is one of: `mipsel-3.4`, `mips-3.4`, `aarch64-3.10`.
