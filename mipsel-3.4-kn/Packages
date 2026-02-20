@@ -1,12 +1,12 @@
 Package: awg-manager
-Version: 2.2.8-dev.11
+Version: 2.2.8-dev.12
 Depends: curl, iptables, ip-full
 Section: net
 Architecture: mipsel-3.4
 Maintainer: hoaxisr
-MD5Sum: fbcd24c12d36704195fcfe205980044b
-Size: 4499291
-Filename: awg-manager_2.2.8-dev.11_mipsel-3.4-kn.ipk
+MD5Sum: cc5f6998c48024ca0a729be9a6ecc17d
+Size: 4499392
+Filename: awg-manager_2.2.8-dev.12_mipsel-3.4-kn.ipk
 Description: AmneziaWG tunnel manager with web interface
 
 
